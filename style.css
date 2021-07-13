@@ -140,6 +140,9 @@ nav p{
  .fa-star.filled{
      color: rgba(255, 192, 20, 1);
  }
+ .course-duration{
+     padding: 10px;
+ }
  /* Media Queries */
 
  /* mobile devices */
